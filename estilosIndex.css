@@ -1,0 +1,26 @@
+#encabezado {
+    background-color: black !important;
+}
+
+#encabezado .navbar-nav .nav-link {
+    color: white !important;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+#encabezado .navbar-toggler-icon {
+    background-color: white !important;
+}
+
+h1{
+    margin-top: 20px;
+}
+p {
+    margin: 20px 10px 30px 15px; 
+    font-size: 20px;
+}
+
+.custom-h1 h1 {
+    color: red;
+  }
+
