@@ -1,0 +1,84 @@
+#encabezado {
+    background-color: rgba(32, 52, 107, 0.8) !important;
+}
+
+
+#encabezado .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.8)!important;
+    font-family: 'Poppins', sans-serif;
+}
+
+#encabezado .navbar-toggler-icon {
+    background-color: rgba(32, 52, 107, ) !important; 
+}
+
+.navbar-toggler {
+    background-color: rgba(32, 52, 107, 0.9) !important; 
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+p {
+    margin: 20px 10px 30px 15px; 
+    font-size: 20px;
+}
+
+.custom-h1 h1 {
+    color: red;
+}
+
+body {
+    background-image: url("https://static.wixstatic.com/media/128120_d716ee8e434e439c820e824c2e46c7db~mv2.jpg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/128120_d716ee8e434e439c820e824c2e46c7db~mv2.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h5{
+    font-family: "Sour Gummy", serif;
+}
+
+h3{
+    font-family: "Sour Gummy", serif;
+}
+li{
+    font-family: "Indie Flower", serif;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  
+
+.container-fluid.py-5 {
+    background-color: #ffffff   ; 
+    color: #333333; 
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.container-fluid img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+.employment-section {
+    background-color: #20346bcc;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.container .row.text-center .col-md-3 {
+    margin-top: 20px;
+  }
+  
+
